@@ -13,6 +13,7 @@ header {
   background-size: cover;
   background-position: center 0;
   background-repeat: no-repeat;
+  height: 100vh;
 }
 header .contenedor_logo_menu {
   padding: 20px 0;

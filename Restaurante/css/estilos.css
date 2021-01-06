@@ -25,7 +25,8 @@ header {
 }
 header .contenedor {
   position: relative;
-  height: 700px;
+  height: 100vh;
+  min-height: 700px;
 }
 header .contenedor .menu {
   width: 100%;
