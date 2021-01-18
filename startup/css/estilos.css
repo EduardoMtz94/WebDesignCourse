@@ -331,6 +331,13 @@ footer .social a.twitter {
 footer .social a.youtube {
   background: #cd201f;
 }
+footer .developed-by p {
+  text-align: center;
+}
+footer .developed-by p a {
+  color: #000;
+  text-decoration: underline;
+}
 
 @media screen and (max-width: 992px) {
   header .contenedor_logo_menu .logo {
